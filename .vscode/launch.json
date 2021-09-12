@@ -1,0 +1,98 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch luoXuan",
+            "request": "launch",
+            "mainClass": "practice.luoXuan",
+            "projectName": "Javacode_f4f3ef38"
+        },
+        {
+            "type": "java",
+            "name": "Launch randomNumber",
+            "request": "launch",
+            "mainClass": "practice.randomNumber",
+            "projectName": "Javacode_f4f3ef38"
+        },
+        {
+            "type": "java",
+            "name": "Launch YangHuiAngle",
+            "request": "launch",
+            "mainClass": "practice.YangHuiAngle",
+            "projectName": "Javacode_f4f3ef38"
+        },
+        {
+            "type": "java",
+            "name": "Launch arrydemo",
+            "request": "launch",
+            "mainClass": "practice.arrydemo",
+            "projectName": "Javacode_f4f3ef38"
+        },
+        {
+            "type": "java",
+            "name": "Launch arryTest",
+            "request": "launch",
+            "mainClass": "arryTest",
+            "projectName": "Javacode_f4f3ef38"
+        },
+        {
+            "type": "java",
+            "name": "Launch test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "Javacode_f4f3ef38"
+        },
+        {
+            "type": "java",
+            "name": "Launch spaw",
+            "request": "launch",
+            "mainClass": "spaw",
+            "projectName": "Javacode_f4f3ef38"
+        },
+        {
+            "type": "java",
+            "name": "Launch demo",
+            "request": "launch",
+            "mainClass": "demo",
+            "projectName": "Javacode_f4f3ef38"
+        },
+        {
+            "type": "java",
+            "name": "Launch twoNumberSum",
+            "request": "launch",
+            "mainClass": "twoNumberSum",
+            "projectName": "Javacode_f4f3ef38"
+        },
+        {
+            "type": "java",
+            "name": "Launch pnt",
+            "request": "launch",
+            "mainClass": "pnt",
+            "projectName": "Javacode_f4f3ef38"
+        },
+        {
+            "type": "java",
+            "name": "Launch nnt",
+            "request": "launch",
+            "mainClass": "nnt",
+            "projectName": "Javacode_f4f3ef38"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch app",
+            "request": "launch",
+            "mainClass": "app",
+            "projectName": "Javacode_f4f3ef38"
+        }
+    ]
+}
